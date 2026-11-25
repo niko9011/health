@@ -1,0 +1,1 @@
+Apple Health auto-sync data. Files: data/YYYY-MM-DD.json pushed by iOS Shortcuts.
